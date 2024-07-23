@@ -2,7 +2,7 @@ import imagebook from "../../public/imagebook.jpg"
 function Banner() {
   return (
    <>
-   <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row">
+   <div className="max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10">
     <div className="w-full order-2 md:order-1 md:w-1/2  mt-12 md:mt-32">
        <div className="space-y-12"> <h1 className="text-4xl font-bold ">Hello, Welcomes Here to learn Something {""}<span className="text-pink-500">new everyday!!!</span></h1>
         <p className="text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat officia repudiandae asperiores veritatis vel explicabo rerum vero quasi, placeat id fugit velit similique, debitis odio nisi neque? Animi ipsam sit mollitia! Exercitationem?</p>
