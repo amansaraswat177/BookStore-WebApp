@@ -1,5 +1,5 @@
 
-
+import moduleName from 'module'
 const Footer = () => {
   return (
   <>
