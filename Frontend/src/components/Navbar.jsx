@@ -81,7 +81,7 @@ const [sticky, setSticky] = useState(false)
     </ul>
   </div>
 <div className="hidden md:block">  <label className=" px-3 py-2 border rounded-md flex items-center gap-2">
-  <input type="text" className="grow outline-none" placeholder="Search" />
+  <input type="text" className="grow outline-none  dark:bg-slate-950 dark:text-white" placeholder="Search" />
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 16 16"
